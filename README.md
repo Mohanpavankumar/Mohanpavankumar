@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and aspi
 - 💻 **Developer**: Skilled in HTML, CSS, JavaScript, and working on mastering frameworks and libraries like React and Node.js.
 - 🎯 **Focus Areas**: Web development, machine learning, and e-commerce solutions.
 - 🌱 **Learning**: Enhancing my knowledge in **JavaScript** and exploring backend technologies to become a full-fledged full-stack developer.
-- 📊 **Mern Autehntication System Project**: Developed a web application .
+- 📊 **Mern Autehntication System Project**: Developed an authentication system(SignUp, SignIn, Logout).
 
 ---
 
