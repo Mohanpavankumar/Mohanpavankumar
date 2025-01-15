@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and aspi
 
 ---
 
-
 It looks like you're aiming for a more stylized version using emojis to represent each category. Here's a polished version of your "Tech Stack" using a consistent format with sections and emojis, along with a clear mention of the databases:
 
 🛠️ Tech Stack
@@ -22,7 +21,7 @@ Languages
 🖥️ Python, 🖥️ JavaScript
 
 Web Development
-🌐 HTML5, 🎨 CSS3, ⚙️ JavaScript (ES6+), 🔥 Flask
+🌐 HTML5, 🎨 CSS3, ⚙️ JavaScript (ES6+).
 
 Frameworks & Libraries
 ⚛️ React.js, 🚀 Node.js, ⚡ Express.js
