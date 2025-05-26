@@ -59,7 +59,7 @@ Check out my repositories for exciting projects and experiments in web developme
 
 ## 📫 Let's Connect!
 
-- 🌐 [Portfolio Website](https://mohanpavan-portfolio.netlify.app/)
+- 🌐 [Portfolio Website](https://mohanpavan.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohana-pavan-kumar-vankayala-a3a931234/)
 - 📝 [Resume](#)
 - ✉️ Email: mohanpavan32@gmail.com
